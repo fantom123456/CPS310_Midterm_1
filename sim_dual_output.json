@@ -1,0 +1,3731 @@
+{
+  "metadata": {
+    "initial_regular": 7500,
+    "initial_armed": 500,
+    "initial_zombies": 2000,
+    "total_ticks": 744,
+    "outcome": "MANUALLY_STOPPED"
+  },
+  "tick_records": [
+    {
+      "tick": 1,
+      "humans": 8000,
+      "zombies": 2000
+    },
+    {
+      "tick": 2,
+      "humans": 7998,
+      "zombies": 2002
+    },
+    {
+      "tick": 3,
+      "humans": 7982,
+      "zombies": 2017
+    },
+    {
+      "tick": 4,
+      "humans": 7967,
+      "zombies": 2031
+    },
+    {
+      "tick": 5,
+      "humans": 7954,
+      "zombies": 2041
+    },
+    {
+      "tick": 6,
+      "humans": 7928,
+      "zombies": 2061
+    },
+    {
+      "tick": 7,
+      "humans": 7907,
+      "zombies": 2064
+    },
+    {
+      "tick": 8,
+      "humans": 7888,
+      "zombies": 2076
+    },
+    {
+      "tick": 9,
+      "humans": 7865,
+      "zombies": 2086
+    },
+    {
+      "tick": 10,
+      "humans": 7837,
+      "zombies": 2106
+    },
+    {
+      "tick": 11,
+      "humans": 7814,
+      "zombies": 2118
+    },
+    {
+      "tick": 12,
+      "humans": 7798,
+      "zombies": 2118
+    },
+    {
+      "tick": 13,
+      "humans": 7785,
+      "zombies": 2096
+    },
+    {
+      "tick": 14,
+      "humans": 7770,
+      "zombies": 2094
+    },
+    {
+      "tick": 15,
+      "humans": 7751,
+      "zombies": 2094
+    },
+    {
+      "tick": 16,
+      "humans": 7740,
+      "zombies": 2085
+    },
+    {
+      "tick": 17,
+      "humans": 7726,
+      "zombies": 2076
+    },
+    {
+      "tick": 18,
+      "humans": 7715,
+      "zombies": 2074
+    },
+    {
+      "tick": 19,
+      "humans": 7701,
+      "zombies": 2052
+    },
+    {
+      "tick": 20,
+      "humans": 7690,
+      "zombies": 2042
+    },
+    {
+      "tick": 21,
+      "humans": 7672,
+      "zombies": 2041
+    },
+    {
+      "tick": 22,
+      "humans": 7659,
+      "zombies": 2042
+    },
+    {
+      "tick": 23,
+      "humans": 7649,
+      "zombies": 2034
+    },
+    {
+      "tick": 24,
+      "humans": 7633,
+      "zombies": 2034
+    },
+    {
+      "tick": 25,
+      "humans": 7623,
+      "zombies": 2011
+    },
+    {
+      "tick": 26,
+      "humans": 7611,
+      "zombies": 2005
+    },
+    {
+      "tick": 27,
+      "humans": 7601,
+      "zombies": 1997
+    },
+    {
+      "tick": 28,
+      "humans": 7595,
+      "zombies": 1990
+    },
+    {
+      "tick": 29,
+      "humans": 7584,
+      "zombies": 1986
+    },
+    {
+      "tick": 30,
+      "humans": 7577,
+      "zombies": 1978
+    },
+    {
+      "tick": 31,
+      "humans": 7569,
+      "zombies": 1949
+    },
+    {
+      "tick": 32,
+      "humans": 7560,
+      "zombies": 1944
+    },
+    {
+      "tick": 33,
+      "humans": 7552,
+      "zombies": 1933
+    },
+    {
+      "tick": 34,
+      "humans": 7542,
+      "zombies": 1930
+    },
+    {
+      "tick": 35,
+      "humans": 7532,
+      "zombies": 1924
+    },
+    {
+      "tick": 36,
+      "humans": 7527,
+      "zombies": 1917
+    },
+    {
+      "tick": 37,
+      "humans": 7520,
+      "zombies": 1901
+    },
+    {
+      "tick": 38,
+      "humans": 7513,
+      "zombies": 1884
+    },
+    {
+      "tick": 39,
+      "humans": 7505,
+      "zombies": 1870
+    },
+    {
+      "tick": 40,
+      "humans": 7499,
+      "zombies": 1855
+    },
+    {
+      "tick": 41,
+      "humans": 7497,
+      "zombies": 1836
+    },
+    {
+      "tick": 42,
+      "humans": 7493,
+      "zombies": 1822
+    },
+    {
+      "tick": 43,
+      "humans": 7485,
+      "zombies": 1810
+    },
+    {
+      "tick": 44,
+      "humans": 7481,
+      "zombies": 1803
+    },
+    {
+      "tick": 45,
+      "humans": 7474,
+      "zombies": 1795
+    },
+    {
+      "tick": 46,
+      "humans": 7470,
+      "zombies": 1786
+    },
+    {
+      "tick": 47,
+      "humans": 7465,
+      "zombies": 1771
+    },
+    {
+      "tick": 48,
+      "humans": 7460,
+      "zombies": 1758
+    },
+    {
+      "tick": 49,
+      "humans": 7453,
+      "zombies": 1742
+    },
+    {
+      "tick": 50,
+      "humans": 7445,
+      "zombies": 1729
+    },
+    {
+      "tick": 51,
+      "humans": 7435,
+      "zombies": 1727
+    },
+    {
+      "tick": 52,
+      "humans": 7431,
+      "zombies": 1716
+    },
+    {
+      "tick": 53,
+      "humans": 7424,
+      "zombies": 1706
+    },
+    {
+      "tick": 54,
+      "humans": 7417,
+      "zombies": 1698
+    },
+    {
+      "tick": 55,
+      "humans": 7409,
+      "zombies": 1690
+    },
+    {
+      "tick": 56,
+      "humans": 7401,
+      "zombies": 1678
+    },
+    {
+      "tick": 57,
+      "humans": 7389,
+      "zombies": 1675
+    },
+    {
+      "tick": 58,
+      "humans": 7383,
+      "zombies": 1673
+    },
+    {
+      "tick": 59,
+      "humans": 7379,
+      "zombies": 1665
+    },
+    {
+      "tick": 60,
+      "humans": 7377,
+      "zombies": 1652
+    },
+    {
+      "tick": 61,
+      "humans": 7373,
+      "zombies": 1631
+    },
+    {
+      "tick": 62,
+      "humans": 7370,
+      "zombies": 1623
+    },
+    {
+      "tick": 63,
+      "humans": 7363,
+      "zombies": 1618
+    },
+    {
+      "tick": 64,
+      "humans": 7360,
+      "zombies": 1611
+    },
+    {
+      "tick": 65,
+      "humans": 7356,
+      "zombies": 1605
+    },
+    {
+      "tick": 66,
+      "humans": 7353,
+      "zombies": 1593
+    },
+    {
+      "tick": 67,
+      "humans": 7346,
+      "zombies": 1582
+    },
+    {
+      "tick": 68,
+      "humans": 7334,
+      "zombies": 1578
+    },
+    {
+      "tick": 69,
+      "humans": 7327,
+      "zombies": 1574
+    },
+    {
+      "tick": 70,
+      "humans": 7324,
+      "zombies": 1565
+    },
+    {
+      "tick": 71,
+      "humans": 7321,
+      "zombies": 1554
+    },
+    {
+      "tick": 72,
+      "humans": 7316,
+      "zombies": 1544
+    },
+    {
+      "tick": 73,
+      "humans": 7311,
+      "zombies": 1535
+    },
+    {
+      "tick": 74,
+      "humans": 7308,
+      "zombies": 1523
+    },
+    {
+      "tick": 75,
+      "humans": 7307,
+      "zombies": 1509
+    },
+    {
+      "tick": 76,
+      "humans": 7303,
+      "zombies": 1502
+    },
+    {
+      "tick": 77,
+      "humans": 7294,
+      "zombies": 1501
+    },
+    {
+      "tick": 78,
+      "humans": 7287,
+      "zombies": 1494
+    },
+    {
+      "tick": 79,
+      "humans": 7279,
+      "zombies": 1491
+    },
+    {
+      "tick": 80,
+      "humans": 7271,
+      "zombies": 1488
+    },
+    {
+      "tick": 81,
+      "humans": 7266,
+      "zombies": 1483
+    },
+    {
+      "tick": 82,
+      "humans": 7259,
+      "zombies": 1478
+    },
+    {
+      "tick": 83,
+      "humans": 7253,
+      "zombies": 1475
+    },
+    {
+      "tick": 84,
+      "humans": 7248,
+      "zombies": 1470
+    },
+    {
+      "tick": 85,
+      "humans": 7241,
+      "zombies": 1464
+    },
+    {
+      "tick": 86,
+      "humans": 7239,
+      "zombies": 1456
+    },
+    {
+      "tick": 87,
+      "humans": 7238,
+      "zombies": 1448
+    },
+    {
+      "tick": 88,
+      "humans": 7236,
+      "zombies": 1438
+    },
+    {
+      "tick": 89,
+      "humans": 7235,
+      "zombies": 1430
+    },
+    {
+      "tick": 90,
+      "humans": 7231,
+      "zombies": 1419
+    },
+    {
+      "tick": 91,
+      "humans": 7223,
+      "zombies": 1411
+    },
+    {
+      "tick": 92,
+      "humans": 7214,
+      "zombies": 1397
+    },
+    {
+      "tick": 93,
+      "humans": 7205,
+      "zombies": 1393
+    },
+    {
+      "tick": 94,
+      "humans": 7203,
+      "zombies": 1387
+    },
+    {
+      "tick": 95,
+      "humans": 7198,
+      "zombies": 1376
+    },
+    {
+      "tick": 96,
+      "humans": 7196,
+      "zombies": 1368
+    },
+    {
+      "tick": 97,
+      "humans": 7193,
+      "zombies": 1353
+    },
+    {
+      "tick": 98,
+      "humans": 7190,
+      "zombies": 1350
+    },
+    {
+      "tick": 99,
+      "humans": 7186,
+      "zombies": 1346
+    },
+    {
+      "tick": 100,
+      "humans": 7179,
+      "zombies": 1339
+    },
+    {
+      "tick": 101,
+      "humans": 7171,
+      "zombies": 1336
+    },
+    {
+      "tick": 102,
+      "humans": 7168,
+      "zombies": 1329
+    },
+    {
+      "tick": 103,
+      "humans": 7166,
+      "zombies": 1322
+    },
+    {
+      "tick": 104,
+      "humans": 7163,
+      "zombies": 1316
+    },
+    {
+      "tick": 105,
+      "humans": 7162,
+      "zombies": 1308
+    },
+    {
+      "tick": 106,
+      "humans": 7160,
+      "zombies": 1298
+    },
+    {
+      "tick": 107,
+      "humans": 7155,
+      "zombies": 1285
+    },
+    {
+      "tick": 108,
+      "humans": 7150,
+      "zombies": 1281
+    },
+    {
+      "tick": 109,
+      "humans": 7148,
+      "zombies": 1273
+    },
+    {
+      "tick": 110,
+      "humans": 7147,
+      "zombies": 1264
+    },
+    {
+      "tick": 111,
+      "humans": 7145,
+      "zombies": 1258
+    },
+    {
+      "tick": 112,
+      "humans": 7144,
+      "zombies": 1252
+    },
+    {
+      "tick": 113,
+      "humans": 7144,
+      "zombies": 1244
+    },
+    {
+      "tick": 114,
+      "humans": 7142,
+      "zombies": 1236
+    },
+    {
+      "tick": 115,
+      "humans": 7141,
+      "zombies": 1227
+    },
+    {
+      "tick": 116,
+      "humans": 7140,
+      "zombies": 1213
+    },
+    {
+      "tick": 117,
+      "humans": 7137,
+      "zombies": 1210
+    },
+    {
+      "tick": 118,
+      "humans": 7134,
+      "zombies": 1199
+    },
+    {
+      "tick": 119,
+      "humans": 7127,
+      "zombies": 1199
+    },
+    {
+      "tick": 120,
+      "humans": 7126,
+      "zombies": 1189
+    },
+    {
+      "tick": 121,
+      "humans": 7125,
+      "zombies": 1178
+    },
+    {
+      "tick": 122,
+      "humans": 7125,
+      "zombies": 1166
+    },
+    {
+      "tick": 123,
+      "humans": 7124,
+      "zombies": 1157
+    },
+    {
+      "tick": 124,
+      "humans": 7123,
+      "zombies": 1146
+    },
+    {
+      "tick": 125,
+      "humans": 7120,
+      "zombies": 1141
+    },
+    {
+      "tick": 126,
+      "humans": 7120,
+      "zombies": 1133
+    },
+    {
+      "tick": 127,
+      "humans": 7118,
+      "zombies": 1123
+    },
+    {
+      "tick": 128,
+      "humans": 7115,
+      "zombies": 1116
+    },
+    {
+      "tick": 129,
+      "humans": 7114,
+      "zombies": 1108
+    },
+    {
+      "tick": 130,
+      "humans": 7112,
+      "zombies": 1102
+    },
+    {
+      "tick": 131,
+      "humans": 7110,
+      "zombies": 1094
+    },
+    {
+      "tick": 132,
+      "humans": 7109,
+      "zombies": 1086
+    },
+    {
+      "tick": 133,
+      "humans": 7107,
+      "zombies": 1076
+    },
+    {
+      "tick": 134,
+      "humans": 7104,
+      "zombies": 1066
+    },
+    {
+      "tick": 135,
+      "humans": 7099,
+      "zombies": 1060
+    },
+    {
+      "tick": 136,
+      "humans": 7091,
+      "zombies": 1058
+    },
+    {
+      "tick": 137,
+      "humans": 7080,
+      "zombies": 1060
+    },
+    {
+      "tick": 138,
+      "humans": 7073,
+      "zombies": 1058
+    },
+    {
+      "tick": 139,
+      "humans": 7070,
+      "zombies": 1053
+    },
+    {
+      "tick": 140,
+      "humans": 7070,
+      "zombies": 1041
+    },
+    {
+      "tick": 141,
+      "humans": 7069,
+      "zombies": 1036
+    },
+    {
+      "tick": 142,
+      "humans": 7068,
+      "zombies": 1030
+    },
+    {
+      "tick": 143,
+      "humans": 7066,
+      "zombies": 1022
+    },
+    {
+      "tick": 144,
+      "humans": 7065,
+      "zombies": 1014
+    },
+    {
+      "tick": 145,
+      "humans": 7064,
+      "zombies": 1007
+    },
+    {
+      "tick": 146,
+      "humans": 7064,
+      "zombies": 1001
+    },
+    {
+      "tick": 147,
+      "humans": 7064,
+      "zombies": 996
+    },
+    {
+      "tick": 148,
+      "humans": 7064,
+      "zombies": 989
+    },
+    {
+      "tick": 149,
+      "humans": 7063,
+      "zombies": 980
+    },
+    {
+      "tick": 150,
+      "humans": 7062,
+      "zombies": 973
+    },
+    {
+      "tick": 151,
+      "humans": 7062,
+      "zombies": 963
+    },
+    {
+      "tick": 152,
+      "humans": 7061,
+      "zombies": 953
+    },
+    {
+      "tick": 153,
+      "humans": 7060,
+      "zombies": 948
+    },
+    {
+      "tick": 154,
+      "humans": 7060,
+      "zombies": 941
+    },
+    {
+      "tick": 155,
+      "humans": 7060,
+      "zombies": 931
+    },
+    {
+      "tick": 156,
+      "humans": 7060,
+      "zombies": 922
+    },
+    {
+      "tick": 157,
+      "humans": 7055,
+      "zombies": 915
+    },
+    {
+      "tick": 158,
+      "humans": 7050,
+      "zombies": 914
+    },
+    {
+      "tick": 159,
+      "humans": 7049,
+      "zombies": 904
+    },
+    {
+      "tick": 160,
+      "humans": 7048,
+      "zombies": 898
+    },
+    {
+      "tick": 161,
+      "humans": 7046,
+      "zombies": 892
+    },
+    {
+      "tick": 162,
+      "humans": 7046,
+      "zombies": 885
+    },
+    {
+      "tick": 163,
+      "humans": 7046,
+      "zombies": 880
+    },
+    {
+      "tick": 164,
+      "humans": 7046,
+      "zombies": 873
+    },
+    {
+      "tick": 165,
+      "humans": 7046,
+      "zombies": 868
+    },
+    {
+      "tick": 166,
+      "humans": 7046,
+      "zombies": 865
+    },
+    {
+      "tick": 167,
+      "humans": 7046,
+      "zombies": 860
+    },
+    {
+      "tick": 168,
+      "humans": 7045,
+      "zombies": 853
+    },
+    {
+      "tick": 169,
+      "humans": 7045,
+      "zombies": 848
+    },
+    {
+      "tick": 170,
+      "humans": 7044,
+      "zombies": 840
+    },
+    {
+      "tick": 171,
+      "humans": 7042,
+      "zombies": 838
+    },
+    {
+      "tick": 172,
+      "humans": 7037,
+      "zombies": 840
+    },
+    {
+      "tick": 173,
+      "humans": 7037,
+      "zombies": 835
+    },
+    {
+      "tick": 174,
+      "humans": 7037,
+      "zombies": 830
+    },
+    {
+      "tick": 175,
+      "humans": 7036,
+      "zombies": 824
+    },
+    {
+      "tick": 176,
+      "humans": 7036,
+      "zombies": 818
+    },
+    {
+      "tick": 177,
+      "humans": 7036,
+      "zombies": 815
+    },
+    {
+      "tick": 178,
+      "humans": 7036,
+      "zombies": 808
+    },
+    {
+      "tick": 179,
+      "humans": 7036,
+      "zombies": 801
+    },
+    {
+      "tick": 180,
+      "humans": 7035,
+      "zombies": 797
+    },
+    {
+      "tick": 181,
+      "humans": 7035,
+      "zombies": 789
+    },
+    {
+      "tick": 182,
+      "humans": 7035,
+      "zombies": 784
+    },
+    {
+      "tick": 183,
+      "humans": 7035,
+      "zombies": 781
+    },
+    {
+      "tick": 184,
+      "humans": 7035,
+      "zombies": 776
+    },
+    {
+      "tick": 185,
+      "humans": 7034,
+      "zombies": 776
+    },
+    {
+      "tick": 186,
+      "humans": 7034,
+      "zombies": 769
+    },
+    {
+      "tick": 187,
+      "humans": 7033,
+      "zombies": 761
+    },
+    {
+      "tick": 188,
+      "humans": 7031,
+      "zombies": 759
+    },
+    {
+      "tick": 189,
+      "humans": 7029,
+      "zombies": 758
+    },
+    {
+      "tick": 190,
+      "humans": 7028,
+      "zombies": 751
+    },
+    {
+      "tick": 191,
+      "humans": 7028,
+      "zombies": 746
+    },
+    {
+      "tick": 192,
+      "humans": 7028,
+      "zombies": 741
+    },
+    {
+      "tick": 193,
+      "humans": 7028,
+      "zombies": 731
+    },
+    {
+      "tick": 194,
+      "humans": 7028,
+      "zombies": 729
+    },
+    {
+      "tick": 195,
+      "humans": 7026,
+      "zombies": 727
+    },
+    {
+      "tick": 196,
+      "humans": 7022,
+      "zombies": 726
+    },
+    {
+      "tick": 197,
+      "humans": 7016,
+      "zombies": 726
+    },
+    {
+      "tick": 198,
+      "humans": 7011,
+      "zombies": 725
+    },
+    {
+      "tick": 199,
+      "humans": 7007,
+      "zombies": 722
+    },
+    {
+      "tick": 200,
+      "humans": 7005,
+      "zombies": 720
+    },
+    {
+      "tick": 201,
+      "humans": 7005,
+      "zombies": 714
+    },
+    {
+      "tick": 202,
+      "humans": 7005,
+      "zombies": 710
+    },
+    {
+      "tick": 203,
+      "humans": 7004,
+      "zombies": 704
+    },
+    {
+      "tick": 204,
+      "humans": 7003,
+      "zombies": 698
+    },
+    {
+      "tick": 205,
+      "humans": 7003,
+      "zombies": 690
+    },
+    {
+      "tick": 206,
+      "humans": 7002,
+      "zombies": 689
+    },
+    {
+      "tick": 207,
+      "humans": 7002,
+      "zombies": 686
+    },
+    {
+      "tick": 208,
+      "humans": 7002,
+      "zombies": 681
+    },
+    {
+      "tick": 209,
+      "humans": 7002,
+      "zombies": 675
+    },
+    {
+      "tick": 210,
+      "humans": 7002,
+      "zombies": 667
+    },
+    {
+      "tick": 211,
+      "humans": 7002,
+      "zombies": 661
+    },
+    {
+      "tick": 212,
+      "humans": 7002,
+      "zombies": 657
+    },
+    {
+      "tick": 213,
+      "humans": 7002,
+      "zombies": 652
+    },
+    {
+      "tick": 214,
+      "humans": 7002,
+      "zombies": 648
+    },
+    {
+      "tick": 215,
+      "humans": 7001,
+      "zombies": 643
+    },
+    {
+      "tick": 216,
+      "humans": 7001,
+      "zombies": 637
+    },
+    {
+      "tick": 217,
+      "humans": 7001,
+      "zombies": 632
+    },
+    {
+      "tick": 218,
+      "humans": 7000,
+      "zombies": 630
+    },
+    {
+      "tick": 219,
+      "humans": 7000,
+      "zombies": 629
+    },
+    {
+      "tick": 220,
+      "humans": 7000,
+      "zombies": 627
+    },
+    {
+      "tick": 221,
+      "humans": 6999,
+      "zombies": 622
+    },
+    {
+      "tick": 222,
+      "humans": 6999,
+      "zombies": 616
+    },
+    {
+      "tick": 223,
+      "humans": 6998,
+      "zombies": 609
+    },
+    {
+      "tick": 224,
+      "humans": 6997,
+      "zombies": 605
+    },
+    {
+      "tick": 225,
+      "humans": 6997,
+      "zombies": 600
+    },
+    {
+      "tick": 226,
+      "humans": 6997,
+      "zombies": 596
+    },
+    {
+      "tick": 227,
+      "humans": 6997,
+      "zombies": 593
+    },
+    {
+      "tick": 228,
+      "humans": 6997,
+      "zombies": 589
+    },
+    {
+      "tick": 229,
+      "humans": 6996,
+      "zombies": 586
+    },
+    {
+      "tick": 230,
+      "humans": 6996,
+      "zombies": 582
+    },
+    {
+      "tick": 231,
+      "humans": 6996,
+      "zombies": 574
+    },
+    {
+      "tick": 232,
+      "humans": 6996,
+      "zombies": 571
+    },
+    {
+      "tick": 233,
+      "humans": 6996,
+      "zombies": 567
+    },
+    {
+      "tick": 234,
+      "humans": 6996,
+      "zombies": 563
+    },
+    {
+      "tick": 235,
+      "humans": 6995,
+      "zombies": 556
+    },
+    {
+      "tick": 236,
+      "humans": 6995,
+      "zombies": 555
+    },
+    {
+      "tick": 237,
+      "humans": 6994,
+      "zombies": 553
+    },
+    {
+      "tick": 238,
+      "humans": 6994,
+      "zombies": 546
+    },
+    {
+      "tick": 239,
+      "humans": 6994,
+      "zombies": 541
+    },
+    {
+      "tick": 240,
+      "humans": 6994,
+      "zombies": 535
+    },
+    {
+      "tick": 241,
+      "humans": 6993,
+      "zombies": 530
+    },
+    {
+      "tick": 242,
+      "humans": 6993,
+      "zombies": 526
+    },
+    {
+      "tick": 243,
+      "humans": 6993,
+      "zombies": 521
+    },
+    {
+      "tick": 244,
+      "humans": 6993,
+      "zombies": 516
+    },
+    {
+      "tick": 245,
+      "humans": 6993,
+      "zombies": 513
+    },
+    {
+      "tick": 246,
+      "humans": 6993,
+      "zombies": 511
+    },
+    {
+      "tick": 247,
+      "humans": 6993,
+      "zombies": 502
+    },
+    {
+      "tick": 248,
+      "humans": 6993,
+      "zombies": 499
+    },
+    {
+      "tick": 249,
+      "humans": 6992,
+      "zombies": 495
+    },
+    {
+      "tick": 250,
+      "humans": 6992,
+      "zombies": 492
+    },
+    {
+      "tick": 251,
+      "humans": 6992,
+      "zombies": 490
+    },
+    {
+      "tick": 252,
+      "humans": 6992,
+      "zombies": 488
+    },
+    {
+      "tick": 253,
+      "humans": 6992,
+      "zombies": 484
+    },
+    {
+      "tick": 254,
+      "humans": 6992,
+      "zombies": 482
+    },
+    {
+      "tick": 255,
+      "humans": 6992,
+      "zombies": 478
+    },
+    {
+      "tick": 256,
+      "humans": 6992,
+      "zombies": 473
+    },
+    {
+      "tick": 257,
+      "humans": 6992,
+      "zombies": 468
+    },
+    {
+      "tick": 258,
+      "humans": 6992,
+      "zombies": 468
+    },
+    {
+      "tick": 259,
+      "humans": 6992,
+      "zombies": 463
+    },
+    {
+      "tick": 260,
+      "humans": 6992,
+      "zombies": 461
+    },
+    {
+      "tick": 261,
+      "humans": 6992,
+      "zombies": 456
+    },
+    {
+      "tick": 262,
+      "humans": 6992,
+      "zombies": 453
+    },
+    {
+      "tick": 263,
+      "humans": 6992,
+      "zombies": 450
+    },
+    {
+      "tick": 264,
+      "humans": 6992,
+      "zombies": 448
+    },
+    {
+      "tick": 265,
+      "humans": 6992,
+      "zombies": 446
+    },
+    {
+      "tick": 266,
+      "humans": 6992,
+      "zombies": 441
+    },
+    {
+      "tick": 267,
+      "humans": 6991,
+      "zombies": 442
+    },
+    {
+      "tick": 268,
+      "humans": 6991,
+      "zombies": 440
+    },
+    {
+      "tick": 269,
+      "humans": 6990,
+      "zombies": 438
+    },
+    {
+      "tick": 270,
+      "humans": 6990,
+      "zombies": 435
+    },
+    {
+      "tick": 271,
+      "humans": 6990,
+      "zombies": 432
+    },
+    {
+      "tick": 272,
+      "humans": 6990,
+      "zombies": 428
+    },
+    {
+      "tick": 273,
+      "humans": 6990,
+      "zombies": 423
+    },
+    {
+      "tick": 274,
+      "humans": 6990,
+      "zombies": 421
+    },
+    {
+      "tick": 275,
+      "humans": 6990,
+      "zombies": 416
+    },
+    {
+      "tick": 276,
+      "humans": 6990,
+      "zombies": 414
+    },
+    {
+      "tick": 277,
+      "humans": 6990,
+      "zombies": 414
+    },
+    {
+      "tick": 278,
+      "humans": 6990,
+      "zombies": 412
+    },
+    {
+      "tick": 279,
+      "humans": 6990,
+      "zombies": 411
+    },
+    {
+      "tick": 280,
+      "humans": 6989,
+      "zombies": 407
+    },
+    {
+      "tick": 281,
+      "humans": 6989,
+      "zombies": 403
+    },
+    {
+      "tick": 282,
+      "humans": 6989,
+      "zombies": 401
+    },
+    {
+      "tick": 283,
+      "humans": 6989,
+      "zombies": 400
+    },
+    {
+      "tick": 284,
+      "humans": 6989,
+      "zombies": 398
+    },
+    {
+      "tick": 285,
+      "humans": 6989,
+      "zombies": 397
+    },
+    {
+      "tick": 286,
+      "humans": 6989,
+      "zombies": 391
+    },
+    {
+      "tick": 287,
+      "humans": 6989,
+      "zombies": 390
+    },
+    {
+      "tick": 288,
+      "humans": 6989,
+      "zombies": 388
+    },
+    {
+      "tick": 289,
+      "humans": 6989,
+      "zombies": 386
+    },
+    {
+      "tick": 290,
+      "humans": 6989,
+      "zombies": 385
+    },
+    {
+      "tick": 291,
+      "humans": 6989,
+      "zombies": 380
+    },
+    {
+      "tick": 292,
+      "humans": 6989,
+      "zombies": 379
+    },
+    {
+      "tick": 293,
+      "humans": 6987,
+      "zombies": 380
+    },
+    {
+      "tick": 294,
+      "humans": 6985,
+      "zombies": 378
+    },
+    {
+      "tick": 295,
+      "humans": 6983,
+      "zombies": 378
+    },
+    {
+      "tick": 296,
+      "humans": 6982,
+      "zombies": 374
+    },
+    {
+      "tick": 297,
+      "humans": 6980,
+      "zombies": 373
+    },
+    {
+      "tick": 298,
+      "humans": 6980,
+      "zombies": 367
+    },
+    {
+      "tick": 299,
+      "humans": 6980,
+      "zombies": 364
+    },
+    {
+      "tick": 300,
+      "humans": 6980,
+      "zombies": 361
+    },
+    {
+      "tick": 301,
+      "humans": 6980,
+      "zombies": 358
+    },
+    {
+      "tick": 302,
+      "humans": 6980,
+      "zombies": 356
+    },
+    {
+      "tick": 303,
+      "humans": 6980,
+      "zombies": 353
+    },
+    {
+      "tick": 304,
+      "humans": 6979,
+      "zombies": 352
+    },
+    {
+      "tick": 305,
+      "humans": 6979,
+      "zombies": 349
+    },
+    {
+      "tick": 306,
+      "humans": 6979,
+      "zombies": 346
+    },
+    {
+      "tick": 307,
+      "humans": 6979,
+      "zombies": 345
+    },
+    {
+      "tick": 308,
+      "humans": 6979,
+      "zombies": 343
+    },
+    {
+      "tick": 309,
+      "humans": 6979,
+      "zombies": 342
+    },
+    {
+      "tick": 310,
+      "humans": 6979,
+      "zombies": 337
+    },
+    {
+      "tick": 311,
+      "humans": 6979,
+      "zombies": 335
+    },
+    {
+      "tick": 312,
+      "humans": 6979,
+      "zombies": 327
+    },
+    {
+      "tick": 313,
+      "humans": 6978,
+      "zombies": 327
+    },
+    {
+      "tick": 314,
+      "humans": 6978,
+      "zombies": 323
+    },
+    {
+      "tick": 315,
+      "humans": 6978,
+      "zombies": 317
+    },
+    {
+      "tick": 316,
+      "humans": 6978,
+      "zombies": 311
+    },
+    {
+      "tick": 317,
+      "humans": 6978,
+      "zombies": 310
+    },
+    {
+      "tick": 318,
+      "humans": 6978,
+      "zombies": 309
+    },
+    {
+      "tick": 319,
+      "humans": 6978,
+      "zombies": 309
+    },
+    {
+      "tick": 320,
+      "humans": 6978,
+      "zombies": 307
+    },
+    {
+      "tick": 321,
+      "humans": 6978,
+      "zombies": 304
+    },
+    {
+      "tick": 322,
+      "humans": 6978,
+      "zombies": 300
+    },
+    {
+      "tick": 323,
+      "humans": 6978,
+      "zombies": 298
+    },
+    {
+      "tick": 324,
+      "humans": 6977,
+      "zombies": 298
+    },
+    {
+      "tick": 325,
+      "humans": 6977,
+      "zombies": 296
+    },
+    {
+      "tick": 326,
+      "humans": 6977,
+      "zombies": 294
+    },
+    {
+      "tick": 327,
+      "humans": 6977,
+      "zombies": 291
+    },
+    {
+      "tick": 328,
+      "humans": 6977,
+      "zombies": 289
+    },
+    {
+      "tick": 329,
+      "humans": 6977,
+      "zombies": 285
+    },
+    {
+      "tick": 330,
+      "humans": 6977,
+      "zombies": 284
+    },
+    {
+      "tick": 331,
+      "humans": 6977,
+      "zombies": 283
+    },
+    {
+      "tick": 332,
+      "humans": 6977,
+      "zombies": 280
+    },
+    {
+      "tick": 333,
+      "humans": 6977,
+      "zombies": 277
+    },
+    {
+      "tick": 334,
+      "humans": 6977,
+      "zombies": 274
+    },
+    {
+      "tick": 335,
+      "humans": 6976,
+      "zombies": 274
+    },
+    {
+      "tick": 336,
+      "humans": 6974,
+      "zombies": 274
+    },
+    {
+      "tick": 337,
+      "humans": 6974,
+      "zombies": 272
+    },
+    {
+      "tick": 338,
+      "humans": 6974,
+      "zombies": 269
+    },
+    {
+      "tick": 339,
+      "humans": 6974,
+      "zombies": 269
+    },
+    {
+      "tick": 340,
+      "humans": 6974,
+      "zombies": 265
+    },
+    {
+      "tick": 341,
+      "humans": 6974,
+      "zombies": 261
+    },
+    {
+      "tick": 342,
+      "humans": 6974,
+      "zombies": 261
+    },
+    {
+      "tick": 343,
+      "humans": 6974,
+      "zombies": 260
+    },
+    {
+      "tick": 344,
+      "humans": 6974,
+      "zombies": 257
+    },
+    {
+      "tick": 345,
+      "humans": 6974,
+      "zombies": 254
+    },
+    {
+      "tick": 346,
+      "humans": 6973,
+      "zombies": 254
+    },
+    {
+      "tick": 347,
+      "humans": 6972,
+      "zombies": 251
+    },
+    {
+      "tick": 348,
+      "humans": 6972,
+      "zombies": 248
+    },
+    {
+      "tick": 349,
+      "humans": 6972,
+      "zombies": 247
+    },
+    {
+      "tick": 350,
+      "humans": 6972,
+      "zombies": 244
+    },
+    {
+      "tick": 351,
+      "humans": 6972,
+      "zombies": 243
+    },
+    {
+      "tick": 352,
+      "humans": 6972,
+      "zombies": 239
+    },
+    {
+      "tick": 353,
+      "humans": 6972,
+      "zombies": 236
+    },
+    {
+      "tick": 354,
+      "humans": 6972,
+      "zombies": 235
+    },
+    {
+      "tick": 355,
+      "humans": 6972,
+      "zombies": 234
+    },
+    {
+      "tick": 356,
+      "humans": 6972,
+      "zombies": 227
+    },
+    {
+      "tick": 357,
+      "humans": 6972,
+      "zombies": 224
+    },
+    {
+      "tick": 358,
+      "humans": 6972,
+      "zombies": 218
+    },
+    {
+      "tick": 359,
+      "humans": 6972,
+      "zombies": 215
+    },
+    {
+      "tick": 360,
+      "humans": 6972,
+      "zombies": 214
+    },
+    {
+      "tick": 361,
+      "humans": 6972,
+      "zombies": 211
+    },
+    {
+      "tick": 362,
+      "humans": 6972,
+      "zombies": 209
+    },
+    {
+      "tick": 363,
+      "humans": 6972,
+      "zombies": 205
+    },
+    {
+      "tick": 364,
+      "humans": 6972,
+      "zombies": 204
+    },
+    {
+      "tick": 365,
+      "humans": 6972,
+      "zombies": 200
+    },
+    {
+      "tick": 366,
+      "humans": 6972,
+      "zombies": 199
+    },
+    {
+      "tick": 367,
+      "humans": 6972,
+      "zombies": 198
+    },
+    {
+      "tick": 368,
+      "humans": 6972,
+      "zombies": 195
+    },
+    {
+      "tick": 369,
+      "humans": 6972,
+      "zombies": 193
+    },
+    {
+      "tick": 370,
+      "humans": 6972,
+      "zombies": 189
+    },
+    {
+      "tick": 371,
+      "humans": 6972,
+      "zombies": 189
+    },
+    {
+      "tick": 372,
+      "humans": 6972,
+      "zombies": 185
+    },
+    {
+      "tick": 373,
+      "humans": 6971,
+      "zombies": 184
+    },
+    {
+      "tick": 374,
+      "humans": 6971,
+      "zombies": 183
+    },
+    {
+      "tick": 375,
+      "humans": 6971,
+      "zombies": 179
+    },
+    {
+      "tick": 376,
+      "humans": 6971,
+      "zombies": 175
+    },
+    {
+      "tick": 377,
+      "humans": 6971,
+      "zombies": 172
+    },
+    {
+      "tick": 378,
+      "humans": 6971,
+      "zombies": 169
+    },
+    {
+      "tick": 379,
+      "humans": 6971,
+      "zombies": 166
+    },
+    {
+      "tick": 380,
+      "humans": 6971,
+      "zombies": 160
+    },
+    {
+      "tick": 381,
+      "humans": 6971,
+      "zombies": 158
+    },
+    {
+      "tick": 382,
+      "humans": 6971,
+      "zombies": 155
+    },
+    {
+      "tick": 383,
+      "humans": 6971,
+      "zombies": 153
+    },
+    {
+      "tick": 384,
+      "humans": 6971,
+      "zombies": 152
+    },
+    {
+      "tick": 385,
+      "humans": 6971,
+      "zombies": 150
+    },
+    {
+      "tick": 386,
+      "humans": 6971,
+      "zombies": 147
+    },
+    {
+      "tick": 387,
+      "humans": 6971,
+      "zombies": 146
+    },
+    {
+      "tick": 388,
+      "humans": 6971,
+      "zombies": 145
+    },
+    {
+      "tick": 389,
+      "humans": 6971,
+      "zombies": 145
+    },
+    {
+      "tick": 390,
+      "humans": 6971,
+      "zombies": 144
+    },
+    {
+      "tick": 391,
+      "humans": 6971,
+      "zombies": 142
+    },
+    {
+      "tick": 392,
+      "humans": 6971,
+      "zombies": 141
+    },
+    {
+      "tick": 393,
+      "humans": 6971,
+      "zombies": 140
+    },
+    {
+      "tick": 394,
+      "humans": 6971,
+      "zombies": 139
+    },
+    {
+      "tick": 395,
+      "humans": 6971,
+      "zombies": 136
+    },
+    {
+      "tick": 396,
+      "humans": 6971,
+      "zombies": 135
+    },
+    {
+      "tick": 397,
+      "humans": 6971,
+      "zombies": 132
+    },
+    {
+      "tick": 398,
+      "humans": 6971,
+      "zombies": 131
+    },
+    {
+      "tick": 399,
+      "humans": 6971,
+      "zombies": 131
+    },
+    {
+      "tick": 400,
+      "humans": 6971,
+      "zombies": 129
+    },
+    {
+      "tick": 401,
+      "humans": 6971,
+      "zombies": 128
+    },
+    {
+      "tick": 402,
+      "humans": 6971,
+      "zombies": 128
+    },
+    {
+      "tick": 403,
+      "humans": 6971,
+      "zombies": 125
+    },
+    {
+      "tick": 404,
+      "humans": 6971,
+      "zombies": 123
+    },
+    {
+      "tick": 405,
+      "humans": 6971,
+      "zombies": 123
+    },
+    {
+      "tick": 406,
+      "humans": 6971,
+      "zombies": 119
+    },
+    {
+      "tick": 407,
+      "humans": 6971,
+      "zombies": 116
+    },
+    {
+      "tick": 408,
+      "humans": 6971,
+      "zombies": 115
+    },
+    {
+      "tick": 409,
+      "humans": 6971,
+      "zombies": 111
+    },
+    {
+      "tick": 410,
+      "humans": 6971,
+      "zombies": 110
+    },
+    {
+      "tick": 411,
+      "humans": 6971,
+      "zombies": 107
+    },
+    {
+      "tick": 412,
+      "humans": 6971,
+      "zombies": 106
+    },
+    {
+      "tick": 413,
+      "humans": 6971,
+      "zombies": 104
+    },
+    {
+      "tick": 414,
+      "humans": 6971,
+      "zombies": 101
+    },
+    {
+      "tick": 415,
+      "humans": 6971,
+      "zombies": 98
+    },
+    {
+      "tick": 416,
+      "humans": 6971,
+      "zombies": 96
+    },
+    {
+      "tick": 417,
+      "humans": 6971,
+      "zombies": 96
+    },
+    {
+      "tick": 418,
+      "humans": 6971,
+      "zombies": 92
+    },
+    {
+      "tick": 419,
+      "humans": 6971,
+      "zombies": 91
+    },
+    {
+      "tick": 420,
+      "humans": 6971,
+      "zombies": 89
+    },
+    {
+      "tick": 421,
+      "humans": 6971,
+      "zombies": 85
+    },
+    {
+      "tick": 422,
+      "humans": 6971,
+      "zombies": 84
+    },
+    {
+      "tick": 423,
+      "humans": 6971,
+      "zombies": 82
+    },
+    {
+      "tick": 424,
+      "humans": 6971,
+      "zombies": 79
+    },
+    {
+      "tick": 425,
+      "humans": 6971,
+      "zombies": 76
+    },
+    {
+      "tick": 426,
+      "humans": 6971,
+      "zombies": 74
+    },
+    {
+      "tick": 427,
+      "humans": 6970,
+      "zombies": 72
+    },
+    {
+      "tick": 428,
+      "humans": 6970,
+      "zombies": 71
+    },
+    {
+      "tick": 429,
+      "humans": 6970,
+      "zombies": 68
+    },
+    {
+      "tick": 430,
+      "humans": 6970,
+      "zombies": 68
+    },
+    {
+      "tick": 431,
+      "humans": 6970,
+      "zombies": 66
+    },
+    {
+      "tick": 432,
+      "humans": 6970,
+      "zombies": 64
+    },
+    {
+      "tick": 433,
+      "humans": 6970,
+      "zombies": 62
+    },
+    {
+      "tick": 434,
+      "humans": 6970,
+      "zombies": 61
+    },
+    {
+      "tick": 435,
+      "humans": 6970,
+      "zombies": 61
+    },
+    {
+      "tick": 436,
+      "humans": 6970,
+      "zombies": 60
+    },
+    {
+      "tick": 437,
+      "humans": 6970,
+      "zombies": 60
+    },
+    {
+      "tick": 438,
+      "humans": 6970,
+      "zombies": 60
+    },
+    {
+      "tick": 439,
+      "humans": 6970,
+      "zombies": 59
+    },
+    {
+      "tick": 440,
+      "humans": 6970,
+      "zombies": 58
+    },
+    {
+      "tick": 441,
+      "humans": 6970,
+      "zombies": 57
+    },
+    {
+      "tick": 442,
+      "humans": 6970,
+      "zombies": 57
+    },
+    {
+      "tick": 443,
+      "humans": 6970,
+      "zombies": 57
+    },
+    {
+      "tick": 444,
+      "humans": 6970,
+      "zombies": 56
+    },
+    {
+      "tick": 445,
+      "humans": 6970,
+      "zombies": 55
+    },
+    {
+      "tick": 446,
+      "humans": 6970,
+      "zombies": 55
+    },
+    {
+      "tick": 447,
+      "humans": 6970,
+      "zombies": 55
+    },
+    {
+      "tick": 448,
+      "humans": 6970,
+      "zombies": 54
+    },
+    {
+      "tick": 449,
+      "humans": 6970,
+      "zombies": 52
+    },
+    {
+      "tick": 450,
+      "humans": 6970,
+      "zombies": 52
+    },
+    {
+      "tick": 451,
+      "humans": 6970,
+      "zombies": 52
+    },
+    {
+      "tick": 452,
+      "humans": 6970,
+      "zombies": 52
+    },
+    {
+      "tick": 453,
+      "humans": 6970,
+      "zombies": 52
+    },
+    {
+      "tick": 454,
+      "humans": 6970,
+      "zombies": 52
+    },
+    {
+      "tick": 455,
+      "humans": 6970,
+      "zombies": 52
+    },
+    {
+      "tick": 456,
+      "humans": 6970,
+      "zombies": 51
+    },
+    {
+      "tick": 457,
+      "humans": 6970,
+      "zombies": 50
+    },
+    {
+      "tick": 458,
+      "humans": 6970,
+      "zombies": 47
+    },
+    {
+      "tick": 459,
+      "humans": 6970,
+      "zombies": 47
+    },
+    {
+      "tick": 460,
+      "humans": 6970,
+      "zombies": 46
+    },
+    {
+      "tick": 461,
+      "humans": 6970,
+      "zombies": 46
+    },
+    {
+      "tick": 462,
+      "humans": 6970,
+      "zombies": 46
+    },
+    {
+      "tick": 463,
+      "humans": 6970,
+      "zombies": 46
+    },
+    {
+      "tick": 464,
+      "humans": 6970,
+      "zombies": 45
+    },
+    {
+      "tick": 465,
+      "humans": 6970,
+      "zombies": 44
+    },
+    {
+      "tick": 466,
+      "humans": 6970,
+      "zombies": 42
+    },
+    {
+      "tick": 467,
+      "humans": 6970,
+      "zombies": 41
+    },
+    {
+      "tick": 468,
+      "humans": 6970,
+      "zombies": 41
+    },
+    {
+      "tick": 469,
+      "humans": 6970,
+      "zombies": 41
+    },
+    {
+      "tick": 470,
+      "humans": 6970,
+      "zombies": 38
+    },
+    {
+      "tick": 471,
+      "humans": 6970,
+      "zombies": 38
+    },
+    {
+      "tick": 472,
+      "humans": 6970,
+      "zombies": 38
+    },
+    {
+      "tick": 473,
+      "humans": 6970,
+      "zombies": 38
+    },
+    {
+      "tick": 474,
+      "humans": 6970,
+      "zombies": 38
+    },
+    {
+      "tick": 475,
+      "humans": 6970,
+      "zombies": 37
+    },
+    {
+      "tick": 476,
+      "humans": 6970,
+      "zombies": 37
+    },
+    {
+      "tick": 477,
+      "humans": 6970,
+      "zombies": 36
+    },
+    {
+      "tick": 478,
+      "humans": 6970,
+      "zombies": 35
+    },
+    {
+      "tick": 479,
+      "humans": 6970,
+      "zombies": 35
+    },
+    {
+      "tick": 480,
+      "humans": 6970,
+      "zombies": 35
+    },
+    {
+      "tick": 481,
+      "humans": 6970,
+      "zombies": 34
+    },
+    {
+      "tick": 482,
+      "humans": 6970,
+      "zombies": 34
+    },
+    {
+      "tick": 483,
+      "humans": 6970,
+      "zombies": 34
+    },
+    {
+      "tick": 484,
+      "humans": 6970,
+      "zombies": 33
+    },
+    {
+      "tick": 485,
+      "humans": 6970,
+      "zombies": 32
+    },
+    {
+      "tick": 486,
+      "humans": 6970,
+      "zombies": 31
+    },
+    {
+      "tick": 487,
+      "humans": 6970,
+      "zombies": 31
+    },
+    {
+      "tick": 488,
+      "humans": 6970,
+      "zombies": 30
+    },
+    {
+      "tick": 489,
+      "humans": 6970,
+      "zombies": 30
+    },
+    {
+      "tick": 490,
+      "humans": 6970,
+      "zombies": 29
+    },
+    {
+      "tick": 491,
+      "humans": 6970,
+      "zombies": 27
+    },
+    {
+      "tick": 492,
+      "humans": 6970,
+      "zombies": 27
+    },
+    {
+      "tick": 493,
+      "humans": 6970,
+      "zombies": 26
+    },
+    {
+      "tick": 494,
+      "humans": 6970,
+      "zombies": 24
+    },
+    {
+      "tick": 495,
+      "humans": 6970,
+      "zombies": 24
+    },
+    {
+      "tick": 496,
+      "humans": 6970,
+      "zombies": 23
+    },
+    {
+      "tick": 497,
+      "humans": 6970,
+      "zombies": 22
+    },
+    {
+      "tick": 498,
+      "humans": 6970,
+      "zombies": 22
+    },
+    {
+      "tick": 499,
+      "humans": 6970,
+      "zombies": 21
+    },
+    {
+      "tick": 500,
+      "humans": 6970,
+      "zombies": 21
+    },
+    {
+      "tick": 501,
+      "humans": 6970,
+      "zombies": 20
+    },
+    {
+      "tick": 502,
+      "humans": 6970,
+      "zombies": 19
+    },
+    {
+      "tick": 503,
+      "humans": 6970,
+      "zombies": 19
+    },
+    {
+      "tick": 504,
+      "humans": 6970,
+      "zombies": 18
+    },
+    {
+      "tick": 505,
+      "humans": 6970,
+      "zombies": 17
+    },
+    {
+      "tick": 506,
+      "humans": 6970,
+      "zombies": 16
+    },
+    {
+      "tick": 507,
+      "humans": 6970,
+      "zombies": 16
+    },
+    {
+      "tick": 508,
+      "humans": 6970,
+      "zombies": 16
+    },
+    {
+      "tick": 509,
+      "humans": 6970,
+      "zombies": 15
+    },
+    {
+      "tick": 510,
+      "humans": 6970,
+      "zombies": 14
+    },
+    {
+      "tick": 511,
+      "humans": 6970,
+      "zombies": 12
+    },
+    {
+      "tick": 512,
+      "humans": 6970,
+      "zombies": 11
+    },
+    {
+      "tick": 513,
+      "humans": 6970,
+      "zombies": 11
+    },
+    {
+      "tick": 514,
+      "humans": 6970,
+      "zombies": 11
+    },
+    {
+      "tick": 515,
+      "humans": 6970,
+      "zombies": 11
+    },
+    {
+      "tick": 516,
+      "humans": 6969,
+      "zombies": 12
+    },
+    {
+      "tick": 517,
+      "humans": 6969,
+      "zombies": 12
+    },
+    {
+      "tick": 518,
+      "humans": 6968,
+      "zombies": 12
+    },
+    {
+      "tick": 519,
+      "humans": 6968,
+      "zombies": 11
+    },
+    {
+      "tick": 520,
+      "humans": 6968,
+      "zombies": 10
+    },
+    {
+      "tick": 521,
+      "humans": 6968,
+      "zombies": 10
+    },
+    {
+      "tick": 522,
+      "humans": 6968,
+      "zombies": 10
+    },
+    {
+      "tick": 523,
+      "humans": 6968,
+      "zombies": 10
+    },
+    {
+      "tick": 524,
+      "humans": 6968,
+      "zombies": 10
+    },
+    {
+      "tick": 525,
+      "humans": 6968,
+      "zombies": 9
+    },
+    {
+      "tick": 526,
+      "humans": 6968,
+      "zombies": 9
+    },
+    {
+      "tick": 527,
+      "humans": 6968,
+      "zombies": 9
+    },
+    {
+      "tick": 528,
+      "humans": 6968,
+      "zombies": 9
+    },
+    {
+      "tick": 529,
+      "humans": 6968,
+      "zombies": 9
+    },
+    {
+      "tick": 530,
+      "humans": 6968,
+      "zombies": 9
+    },
+    {
+      "tick": 531,
+      "humans": 6968,
+      "zombies": 9
+    },
+    {
+      "tick": 532,
+      "humans": 6968,
+      "zombies": 9
+    },
+    {
+      "tick": 533,
+      "humans": 6968,
+      "zombies": 9
+    },
+    {
+      "tick": 534,
+      "humans": 6968,
+      "zombies": 9
+    },
+    {
+      "tick": 535,
+      "humans": 6968,
+      "zombies": 9
+    },
+    {
+      "tick": 536,
+      "humans": 6968,
+      "zombies": 9
+    },
+    {
+      "tick": 537,
+      "humans": 6968,
+      "zombies": 9
+    },
+    {
+      "tick": 538,
+      "humans": 6968,
+      "zombies": 9
+    },
+    {
+      "tick": 539,
+      "humans": 6968,
+      "zombies": 9
+    },
+    {
+      "tick": 540,
+      "humans": 6968,
+      "zombies": 9
+    },
+    {
+      "tick": 541,
+      "humans": 6968,
+      "zombies": 9
+    },
+    {
+      "tick": 542,
+      "humans": 6968,
+      "zombies": 9
+    },
+    {
+      "tick": 543,
+      "humans": 6968,
+      "zombies": 9
+    },
+    {
+      "tick": 544,
+      "humans": 6968,
+      "zombies": 9
+    },
+    {
+      "tick": 545,
+      "humans": 6968,
+      "zombies": 9
+    },
+    {
+      "tick": 546,
+      "humans": 6968,
+      "zombies": 9
+    },
+    {
+      "tick": 547,
+      "humans": 6968,
+      "zombies": 9
+    },
+    {
+      "tick": 548,
+      "humans": 6968,
+      "zombies": 9
+    },
+    {
+      "tick": 549,
+      "humans": 6968,
+      "zombies": 9
+    },
+    {
+      "tick": 550,
+      "humans": 6968,
+      "zombies": 8
+    },
+    {
+      "tick": 551,
+      "humans": 6968,
+      "zombies": 8
+    },
+    {
+      "tick": 552,
+      "humans": 6967,
+      "zombies": 9
+    },
+    {
+      "tick": 553,
+      "humans": 6967,
+      "zombies": 9
+    },
+    {
+      "tick": 554,
+      "humans": 6967,
+      "zombies": 9
+    },
+    {
+      "tick": 555,
+      "humans": 6967,
+      "zombies": 9
+    },
+    {
+      "tick": 556,
+      "humans": 6967,
+      "zombies": 7
+    },
+    {
+      "tick": 557,
+      "humans": 6967,
+      "zombies": 7
+    },
+    {
+      "tick": 558,
+      "humans": 6967,
+      "zombies": 7
+    },
+    {
+      "tick": 559,
+      "humans": 6967,
+      "zombies": 7
+    },
+    {
+      "tick": 560,
+      "humans": 6967,
+      "zombies": 7
+    },
+    {
+      "tick": 561,
+      "humans": 6967,
+      "zombies": 7
+    },
+    {
+      "tick": 562,
+      "humans": 6967,
+      "zombies": 6
+    },
+    {
+      "tick": 563,
+      "humans": 6967,
+      "zombies": 6
+    },
+    {
+      "tick": 564,
+      "humans": 6967,
+      "zombies": 6
+    },
+    {
+      "tick": 565,
+      "humans": 6967,
+      "zombies": 6
+    },
+    {
+      "tick": 566,
+      "humans": 6967,
+      "zombies": 6
+    },
+    {
+      "tick": 567,
+      "humans": 6967,
+      "zombies": 6
+    },
+    {
+      "tick": 568,
+      "humans": 6967,
+      "zombies": 6
+    },
+    {
+      "tick": 569,
+      "humans": 6967,
+      "zombies": 6
+    },
+    {
+      "tick": 570,
+      "humans": 6967,
+      "zombies": 6
+    },
+    {
+      "tick": 571,
+      "humans": 6967,
+      "zombies": 6
+    },
+    {
+      "tick": 572,
+      "humans": 6967,
+      "zombies": 6
+    },
+    {
+      "tick": 573,
+      "humans": 6967,
+      "zombies": 6
+    },
+    {
+      "tick": 574,
+      "humans": 6967,
+      "zombies": 6
+    },
+    {
+      "tick": 575,
+      "humans": 6967,
+      "zombies": 6
+    },
+    {
+      "tick": 576,
+      "humans": 6967,
+      "zombies": 6
+    },
+    {
+      "tick": 577,
+      "humans": 6967,
+      "zombies": 6
+    },
+    {
+      "tick": 578,
+      "humans": 6967,
+      "zombies": 6
+    },
+    {
+      "tick": 579,
+      "humans": 6967,
+      "zombies": 6
+    },
+    {
+      "tick": 580,
+      "humans": 6967,
+      "zombies": 6
+    },
+    {
+      "tick": 581,
+      "humans": 6967,
+      "zombies": 6
+    },
+    {
+      "tick": 582,
+      "humans": 6967,
+      "zombies": 6
+    },
+    {
+      "tick": 583,
+      "humans": 6967,
+      "zombies": 6
+    },
+    {
+      "tick": 584,
+      "humans": 6967,
+      "zombies": 6
+    },
+    {
+      "tick": 585,
+      "humans": 6967,
+      "zombies": 5
+    },
+    {
+      "tick": 586,
+      "humans": 6967,
+      "zombies": 5
+    },
+    {
+      "tick": 587,
+      "humans": 6967,
+      "zombies": 5
+    },
+    {
+      "tick": 588,
+      "humans": 6967,
+      "zombies": 5
+    },
+    {
+      "tick": 589,
+      "humans": 6967,
+      "zombies": 5
+    },
+    {
+      "tick": 590,
+      "humans": 6967,
+      "zombies": 5
+    },
+    {
+      "tick": 591,
+      "humans": 6967,
+      "zombies": 5
+    },
+    {
+      "tick": 592,
+      "humans": 6967,
+      "zombies": 5
+    },
+    {
+      "tick": 593,
+      "humans": 6967,
+      "zombies": 5
+    },
+    {
+      "tick": 594,
+      "humans": 6967,
+      "zombies": 5
+    },
+    {
+      "tick": 595,
+      "humans": 6967,
+      "zombies": 5
+    },
+    {
+      "tick": 596,
+      "humans": 6967,
+      "zombies": 5
+    },
+    {
+      "tick": 597,
+      "humans": 6967,
+      "zombies": 5
+    },
+    {
+      "tick": 598,
+      "humans": 6967,
+      "zombies": 5
+    },
+    {
+      "tick": 599,
+      "humans": 6967,
+      "zombies": 5
+    },
+    {
+      "tick": 600,
+      "humans": 6967,
+      "zombies": 5
+    },
+    {
+      "tick": 601,
+      "humans": 6967,
+      "zombies": 5
+    },
+    {
+      "tick": 602,
+      "humans": 6967,
+      "zombies": 5
+    },
+    {
+      "tick": 603,
+      "humans": 6967,
+      "zombies": 5
+    },
+    {
+      "tick": 604,
+      "humans": 6967,
+      "zombies": 5
+    },
+    {
+      "tick": 605,
+      "humans": 6967,
+      "zombies": 5
+    },
+    {
+      "tick": 606,
+      "humans": 6967,
+      "zombies": 5
+    },
+    {
+      "tick": 607,
+      "humans": 6967,
+      "zombies": 5
+    },
+    {
+      "tick": 608,
+      "humans": 6967,
+      "zombies": 5
+    },
+    {
+      "tick": 609,
+      "humans": 6967,
+      "zombies": 5
+    },
+    {
+      "tick": 610,
+      "humans": 6967,
+      "zombies": 4
+    },
+    {
+      "tick": 611,
+      "humans": 6967,
+      "zombies": 4
+    },
+    {
+      "tick": 612,
+      "humans": 6967,
+      "zombies": 4
+    },
+    {
+      "tick": 613,
+      "humans": 6967,
+      "zombies": 4
+    },
+    {
+      "tick": 614,
+      "humans": 6967,
+      "zombies": 4
+    },
+    {
+      "tick": 615,
+      "humans": 6967,
+      "zombies": 4
+    },
+    {
+      "tick": 616,
+      "humans": 6967,
+      "zombies": 4
+    },
+    {
+      "tick": 617,
+      "humans": 6967,
+      "zombies": 3
+    },
+    {
+      "tick": 618,
+      "humans": 6967,
+      "zombies": 3
+    },
+    {
+      "tick": 619,
+      "humans": 6967,
+      "zombies": 3
+    },
+    {
+      "tick": 620,
+      "humans": 6967,
+      "zombies": 3
+    },
+    {
+      "tick": 621,
+      "humans": 6967,
+      "zombies": 3
+    },
+    {
+      "tick": 622,
+      "humans": 6967,
+      "zombies": 3
+    },
+    {
+      "tick": 623,
+      "humans": 6967,
+      "zombies": 2
+    },
+    {
+      "tick": 624,
+      "humans": 6967,
+      "zombies": 2
+    },
+    {
+      "tick": 625,
+      "humans": 6967,
+      "zombies": 2
+    },
+    {
+      "tick": 626,
+      "humans": 6967,
+      "zombies": 2
+    },
+    {
+      "tick": 627,
+      "humans": 6967,
+      "zombies": 2
+    },
+    {
+      "tick": 628,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 629,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 630,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 631,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 632,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 633,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 634,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 635,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 636,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 637,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 638,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 639,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 640,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 641,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 642,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 643,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 644,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 645,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 646,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 647,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 648,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 649,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 650,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 651,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 652,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 653,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 654,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 655,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 656,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 657,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 658,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 659,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 660,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 661,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 662,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 663,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 664,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 665,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 666,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 667,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 668,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 669,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 670,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 671,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 672,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 673,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 674,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 675,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 676,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 677,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 678,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 679,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 680,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 681,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 682,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 683,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 684,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 685,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 686,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 687,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 688,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 689,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 690,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 691,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 692,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 693,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 694,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 695,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 696,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 697,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 698,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 699,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 700,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 701,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 702,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 703,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 704,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 705,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 706,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 707,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 708,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 709,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 710,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 711,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 712,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 713,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 714,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 715,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 716,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 717,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 718,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 719,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 720,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 721,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 722,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 723,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 724,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 725,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 726,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 727,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 728,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 729,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 730,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 731,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 732,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 733,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 734,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 735,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 736,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 737,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 738,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 739,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 740,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 741,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 742,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 743,
+      "humans": 6967,
+      "zombies": 1
+    },
+    {
+      "tick": 744,
+      "humans": 6967,
+      "zombies": 0
+    }
+  ]
+}
